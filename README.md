@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Awad</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omarkhaledaw&label=Profile%20views&color=0e75b6&style=flat" alt="omarkhaledaw" /> </p>
+<p align="right"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/244498/screenshots/2854788/media/4e88b494039716ba780161409d636ad6.gif">
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/244498/screenshots/2854788/media/4e88b494039716ba780161409d636ad6.gif">
-
 I'm a recently graduated from the Egyptian Russian University (ERU) as a highly motivated and skilled Mechatronics and Robotics Engineer. I possess expertise in embedded systems and have a solid understanding of mechatronics principles and concepts. My knowledge includes machine design, hydraulics, pneumatics, and automatic control systems encompassing motors, gears, bearings, sensors, actuators, and motor drivers. Additionally, I am proficient in electric design and simulation software such as SOLIDWORKS, AutoCAD, MATLAB, and Simulink. I have gained extensive experience in embedded systems and real-time operating systems through various projects utilizing programming languages like C and C++. I am well-versed in industrial communication protocols such as LIN, CAN, SPI, I2C, and UART. Moreover, I have a strong aptitude for PLCs and ladder programming, having worked on multiple PLC circuits. Currently, I am pursuing studies in Embedded Linux, and I am enthusiastic about entering the professional realm to contribute significantly to the field of software development.
 
 
